@@ -2,7 +2,7 @@
 v1.2.0   (14th September 2008)
 
    * The license has been changed to the ISC license.
-   * Support for compiling with gcc coverage options and running tests in
+   ! Support for compiling with gcc coverage options and running tests in
      valgrind.
    * All headers now have extern "C" definitions for use in C++ programs.
    * Trie free function uses a non-recursive algorithm to avoid the
@@ -44,3 +44,4 @@ v1.0.0   (30th January 2006)
 
   First release.
 
+ 
